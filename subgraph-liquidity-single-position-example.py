@@ -10,7 +10,7 @@ from gql.transport.requests import RequestsHTTPTransport
 import math
 import sys
 
-POSITION_ID = "2"
+POSITION_ID = "386603"
 
 # if passed in command line, use an alternative pool ID
 if len(sys.argv) > 1:
